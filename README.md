@@ -1,0 +1,1 @@
+这是我个人hexo博客butterfly主题的配置文件，主要的修改在`_config.yml`文件和source目录，防丢失，仅供个人使用
